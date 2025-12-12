@@ -1,0 +1,19 @@
+# Project: Personal Introduction Program
+#Programer Name: Suma
+
+# Python version Required :Python 3.14.0
+
+#Standard Libraries Used(Pre installed with Python)
+Builtins
+os
+sys
+
+#File Encoding
+UTF 8
+
+#Supported Operating System
+Windows
+
+no external third party modules required.
+
+###This project runs Fully on standard Python installation.
